@@ -1,0 +1,28 @@
+#mainTopic{
+    color: blue;
+}
+*{
+    text-align: center;
+    font-family: Georgia;
+}
+.post{
+    background-color: cornflowerblue;
+    color: white;
+}
+div button{
+    background-color: purple;
+    color: azure;
+}
+button:hover{
+    background-color: yellow;
+    color: blue;
+}
+p:nth-od-type{
+    color: yellow;
+}
+h1::first-letter{
+    color: red;
+}
+#yes:checked + label{
+    color: darkgreen;
+}
