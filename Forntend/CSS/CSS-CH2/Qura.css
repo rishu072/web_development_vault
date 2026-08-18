@@ -18,6 +18,30 @@ h1{
     background-color: green; 
     color: white;           /* class selector */
 }
+p a{
+    color: purple;
+    background-color: yellow;  /* descendant selector */
+}
+p + h3{
+    text-decoration: underline;  /* adjacent sibling selector */
+}
+.upvote + button{
+    background-color: cornflowerblue;
+    color: white; 
+}
 
-
-
+div > input{
+    background-color: darksalmon; /* child selector */
+}
+input[type=text]{
+    color: green;
+}
+input[type=password]{
+    color: red;             /* attribute selector */
+}
+input[type]{
+    background-color: ghostwhite;
+}
+#myid{
+    color: green; /* id selector */
+}
