@@ -1,4 +1,7 @@
-* {
+h3{
+    background-color: gold !important;
+}
+*{
     font-family: "Courier New";
     /*universal selector*/
 }
