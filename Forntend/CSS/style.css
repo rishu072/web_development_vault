@@ -1,5 +1,19 @@
 /* external CSS file */
-h1{
+/* h1{
     color: red;
     background-color: yellow;  
-    }
+    } */
+
+H1{
+    color: red;
+}
+H2{
+    color: blue;
+}
+p{
+    color: green;
+}
+button{
+    color: white;
+    background-color: black;
+}
