@@ -1,0 +1,18 @@
+*{
+    font-family: courier new; 
+}
+h1{
+    color: #1b74e4;
+}
+#searchbtn{
+    color: white;
+    background-color: #000;
+}
+/* #loginbtn,#signupbtn{
+  using ID
+} */
+
+.userbtn{
+    background-color: #0b98cf;
+    color: white;
+}
