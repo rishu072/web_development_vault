@@ -1,5 +1,13 @@
-h1,h2,h3{
+h1,h2{
     text-align: center;
-    border: solid;
-    width: 100%;
+    text-decoration: uppercase;
+    text-decoration: wavy #000 underline;
+}
+h3{
+    text-align: center;
+    text-decoration: line-through;
+}
+p{
+    text-align: justify;
+    font-size: 400;
 }
