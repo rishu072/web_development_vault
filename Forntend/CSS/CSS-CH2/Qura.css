@@ -97,3 +97,9 @@ p::first-line{
 p::selection{
     background-color: yellow;
 }
+h3{
+    background-color: lightblue;
+}
+h3{
+    background-color: gold;
+}
