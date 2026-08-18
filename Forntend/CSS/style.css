@@ -6,14 +6,17 @@
 
 H1{
     color: red;
+    background-color: yellow;
 }
 H2{
     color: blue;
+    background-color: orange;
 }
 p{
     color: green;
+    background-color: lightgray;
 }
 button{
     color: white;
-    background-color: black;
+    background: black;
 }
