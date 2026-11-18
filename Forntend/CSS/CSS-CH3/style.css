@@ -1,3 +1,15 @@
 div{
-    height: 100px;
+    height: 200px;
+    width: 500px;
+    background-color: rgb(0, 255, 123);
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: rgb(247, 20, 20); */
+    border: 5px solid black; /*short hand*/
+    border-left-color: blue ;
+    border-left-style: dashed;
+    
+}
+h1{
+    border: 2px dashed green;
 }
