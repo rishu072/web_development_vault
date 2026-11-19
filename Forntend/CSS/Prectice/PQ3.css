@@ -1,15 +1,9 @@
-span{
-    border: 2px solid black;
-    height: 100px;
-    width: 200px;
-    padding: 50px;
-    margin: 20px; /* L and R */
-}
-
 div{
-    border: 2px solid black;
-    height: 100px;
+    height: 200px;
     width: 200px;
-    padding: 50px;
-    margin: 20px;
+    background-color: rgb(157, 214, 71);
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+    
 }
