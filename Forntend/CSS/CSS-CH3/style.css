@@ -6,13 +6,20 @@ div{
     border-width: 5px;
     border-color: rgb(247, 20, 20); */
     border: 5px solid black; /*short hand*/
-    border-left-color: rgba(99, 99, 230, 0.458) ;
-    border-left-style: dashed;
     /* border-radius: 50px; */
     border-top-left-radius: 10px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    /*margin: 20px,30px,40px,50px;*/
 
 }
 h1{
     border: 2px dashed green;
     border-radius: 50px;
+}
+button{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 10px,20px,30px,40px;
+    background-color: yellow;
 }
