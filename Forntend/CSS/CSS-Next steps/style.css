@@ -1,0 +1,14 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(225, 77, 255 , 0.3);
+    margin: 0 auto;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.2s;
+
+}
+div:hover{
+    margin-top: 400px;
+    background-color: aqua;
+    border-radius: 50%;
+}
