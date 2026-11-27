@@ -1,4 +1,4 @@
-div{
+/* div{
     height: 200px;
     width: 200px;
     background-color: rgba(225, 77, 255 , 0.3);
@@ -11,4 +11,23 @@ div:hover{
     margin-top: 400px;
     background-color: aqua;
     border-radius: 50%;
+} */
+
+section{
+    margin-top: 100px;
 }
+div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: #7aa874;
+    border: 2px solid black;
+    margin: 10px;
+}   
+div:nth-of-type(2n){
+    background-color: #7db6a7;
+}
+div:nth-of-type(3n){
+    background-color: #ebb02d;
+}
+
